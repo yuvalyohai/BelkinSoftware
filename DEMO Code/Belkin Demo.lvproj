@@ -1310,6 +1310,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Create Image Overlay with Pupil Center.vi" Type="VI" URL="../RT/Create Image Overlay with Pupil Center.vi"/>
 		<Item Name="find pupil edge core.vi" Type="VI" URL="../RT/find pupil edge core.vi"/>
 		<Item Name="Belkin Demo Image Proc V2.vi" Type="VI" URL="../RT/Belkin Demo Image Proc V2.vi"/>
+		<Item Name="Set Exposure.vi" Type="VI" URL="../RT/Set Exposure.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="IMAQ Image.ctl" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/IMAQ Image.ctl"/>
