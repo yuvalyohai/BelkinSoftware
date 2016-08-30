@@ -54,6 +54,7 @@
 				<Item Name="Particle Parameters" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/Particle Parameters"/>
 				<Item Name="ShapeDetectionMatchOptions.ctl" Type="VI" URL="/&lt;vilib&gt;/vision/Shape Detection.llb/ShapeDetectionMatchOptions.ctl"/>
 			</Item>
+			<Item Name="Belkin Globals.vi" Type="VI" URL="../RT/Belkin Globals.vi"/>
 			<Item Name="Create Image Overlay with Pupil Center.vi" Type="VI" URL="../RT/Create Image Overlay with Pupil Center.vi"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -1311,6 +1312,8 @@ AddOutputFilter chunkFilter
 		<Item Name="find pupil edge core.vi" Type="VI" URL="../RT/find pupil edge core.vi"/>
 		<Item Name="Belkin Demo Image Proc V2.vi" Type="VI" URL="../RT/Belkin Demo Image Proc V2.vi"/>
 		<Item Name="Set Exposure.vi" Type="VI" URL="../RT/Set Exposure.vi"/>
+		<Item Name="open color cam.vi" Type="VI" URL="../../ImageProcCode/Color camera/open color cam.vi"/>
+		<Item Name="Belkin Globals.vi" Type="VI" URL="../RT/Belkin Globals.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="IMAQ Image.ctl" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/IMAQ Image.ctl"/>
@@ -1352,6 +1355,7 @@ AddOutputFilter chunkFilter
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="acq image color.vi" Type="VI" URL="../../ImageProcCode/Color camera/acq image color.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
