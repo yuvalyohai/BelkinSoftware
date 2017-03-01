@@ -19,6 +19,8 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Belkin Demo Image Proc V2 Not RT.vi" Type="VI" URL="../RT/Belkin Demo Image Proc V2 Not RT.vi"/>
+		<Item Name="Belkin Demo Image Proc V2.vi" Type="VI" URL="../RT/Belkin Demo Image Proc V2.vi"/>
 		<Item Name="Belkin Demo Image Proc.vi" Type="VI" URL="../RT/Belkin Demo Image Proc.vi"/>
 		<Item Name="BELKIN Polar to Cartesian.vi" Type="VI" URL="../FPGA/BELKIN Polar to Cartesian.vi"/>
 		<Item Name="find pupil edge core.vi" Type="VI" URL="../RT/find pupil edge core.vi"/>
@@ -69,6 +71,7 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Read cam Live Video.vi" Type="VI" URL="../RT/Read cam Live Video.vi"/>
+			<Item Name="Set Exposure.vi" Type="VI" URL="../RT/Set Exposure.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
