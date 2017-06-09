@@ -1,5 +1,5 @@
 [ProjectWindow_Data]
-ProjectExplorer.ClassicPosition[String] = "95,16,923,388"
+ProjectExplorer.ClassicPosition[String] = "139,40,967,545"
 
 [AB_Cache_{EC1AD00D-0ACB-488E-BA21-54C7CB0F3AB0}]
 Cache_Path[Path] Line0001 = "/C/Users/Yuval/AppData/Local/Temp/AB_Cache_{EC1AD0"
@@ -17,6 +17,14 @@ Cache_Path[Path] Line0002 = "83-E471-4834-8293-DC5C1D4B6BDD}.txt"
 Cache_Path[Path] Line0001 = "/C/Users/Yuval/AppData/Local/Temp/AB_Cache_{6FA136"
 Cache_Path[Path] Line0002 = "C6-EEB1-4CEB-ABC1-7AE97FCBDD50}.txt"
 
+[AB_Cache_{05C172C8-8F1E-4360-9BCC-9FADE5C07CA7}]
+Cache_Path[Path] Line0001 = "/C/Users/Yuval/AppData/Local/Temp/AB_Cache_{05C172"
+Cache_Path[Path] Line0002 = "C8-8F1E-4360-9BCC-9FADE5C07CA7}.txt"
+
+[AB_Cache_{7ABD71D9-FD53-4455-BE59-1E1F07814322}]
+Cache_Path[Path] Line0001 = "/C/Users/Yuval/AppData/Local/Temp/AB_Cache_{7ABD71"
+Cache_Path[Path] Line0002 = "D9-FD53-4455-BE59-1E1F07814322}.txt"
+
 [AB_Cache_{FE3BF2D4-2CB2-4123-99C8-92282F57F092}]
 Cache_Path[Path] Line0001 = "/C/Users/Yuval/AppData/Local/Temp/AB_Cache_{FE3BF2"
 Cache_Path[Path] Line0002 = "D4-2CB2-4123-99C8-92282F57F092}.txt"
@@ -24,4 +32,20 @@ Cache_Path[Path] Line0002 = "D4-2CB2-4123-99C8-92282F57F092}.txt"
 [AB_Cache_{6DD5427C-0E18-40A2-9F70-1A594B56646E}]
 Cache_Path[Path] Line0001 = "/C/Users/Yuval/AppData/Local/Temp/AB_Cache_{6DD542"
 Cache_Path[Path] Line0002 = "7C-0E18-40A2-9F70-1A594B56646E}.txt"
+
+[AB_Cache_{1146DF5F-6873-49B8-9348-72730E592546}]
+Cache_Path[Path] Line0001 = "/C/Users/Yuval/AppData/Local/Temp/AB_Cache_{1146DF"
+Cache_Path[Path] Line0002 = "5F-6873-49B8-9348-72730E592546}.txt"
+
+[AB_Cache_{074A36F6-9840-46D7-9CF3-28E29BEA58E8}]
+Cache_Path[Path] Line0001 = "/C/Users/Yuval/AppData/Local/Temp/AB_Cache_{074A36"
+Cache_Path[Path] Line0002 = "F6-9840-46D7-9CF3-28E29BEA58E8}.txt"
+
+[AB_Cache_{83DD2E99-FDBB-4F6D-B207-C498F1BCF447}]
+Cache_Path[Path] Line0001 = "/C/Users/User/AppData/Local/Temp/AB_Cache_{83DD2E9"
+Cache_Path[Path] Line0002 = "9-FDBB-4F6D-B207-C498F1BCF447}.txt"
+
+[AB_Cache_{D1FE9A89-E0C8-404F-B3C6-1A375A4C5462}]
+Cache_Path[Path] Line0001 = "/C/Users/User/AppData/Local/Temp/AB_Cache_{D1FE9A8"
+Cache_Path[Path] Line0002 = "9-E0C8-404F-B3C6-1A375A4C5462}.txt"
 
